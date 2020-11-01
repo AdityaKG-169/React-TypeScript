@@ -26,6 +26,6 @@
 		"scripts",
 		"webpack",
 		"jest",
-		"src/setupTests.jsx"
+		"src/setupTests.ts",
   ]
 }
