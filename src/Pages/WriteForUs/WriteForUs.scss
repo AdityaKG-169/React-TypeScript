@@ -1,0 +1,13 @@
+.write-page__image {
+	background-image: url(../../Assets/WriteForUsPage.jpg);
+	width: 100%;
+	min-height: calc(100vh - 49px);
+	background-size: cover;
+	background-position: center;
+
+	& .write-page__image-dark {
+		background-color: rgba(0, 0, 0, 0.4);
+		width: 100%;
+		min-height: calc(100vh - 49px);
+	}
+}
